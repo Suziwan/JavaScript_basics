@@ -3,7 +3,7 @@ let space = " ";
 let symbol = "#";
 
 if (floors > 25){
-  console.log(`Sorry, the pyramid cannot be higher than 25 floors`); 
+  console.log(`Sorry, the pyramid cannot be higher than 25 floors`);
   }
 else {
   for (var i = 0; i <= floors; i++){
